@@ -8,8 +8,9 @@ by Amaury Payelleville, Shirley Serrano and Sarah Sackey
   *What is the average size of land you own that is currently under irrigation?
 
 ## Observations
+  *Avg size of land (acre)
+  * Number of households with a given acre size
   *County
-  *Acres
-  *Gender
+  *Gender of land owner
 
 
