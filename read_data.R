@@ -1,2 +1,3 @@
 
-data <- read.csv("data.csv")
+data <- read.csv("Reshaped_tidy.csv")
+data
